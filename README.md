@@ -2,7 +2,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/dieguesmosken/dieguesmosken?style=social)[![HitCount](http://hits.dwyl.com/dieguesmosken/dieguesmosken.svg)](http://hits.dwyl.com/dieguesmosken/dieguesmosken)
 ### Redes Sociais
 ![Twitter Follow](https://img.shields.io/twitter/follow/dieguesmosken?style=social) ![GitHub followers](https://img.shields.io/github/followers/dieguesmosken?style=social)
-[Facebook](facebook.com/dieguesmosken) [Telegram](http://t.me/dieguesmosken)[Linkedin](linkedin.com/in/dieguesmosken)[Instagram](instagram.com/matheus.mosken)
+[Facebook](facebook.com/dieguesmosken) [Telegram](http://t.me/dieguesmosken) [Linkedin](linkedin.com/in/dieguesmosken) [Instagram](instagram.com/matheus.mosken)
 ### Sobre Mim
 - 🌱 I’m currently learning Tecnico em desenvolviment de sistemas
 - 🤔 I’m looking for help with Csharp
