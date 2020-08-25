@@ -1,5 +1,5 @@
 ### Contador de Views
-![GitHub watchers](https://img.shields.io/github/watchers/dieguesmosken/dieguesmosken?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/dieguesmosken/dieguesmosken?style=social)[![HitCount](http://hits.dwyl.com/dieguesmosken/dieguesmosken.svg)](http://hits.dwyl.com/dieguesmosken/dieguesmosken)
 ### Redes Sociais
 ![Twitter Follow](https://img.shields.io/twitter/follow/dieguesmosken?style=social) ![GitHub followers](https://img.shields.io/github/followers/dieguesmosken?style=social)
 
