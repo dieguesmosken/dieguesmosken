@@ -1,4 +1,6 @@
-### Hi there 👋
+### Contador de Views
+![GitHub search hit counter](https://img.shields.io/github/search/dieguesmosken/dieguesmosken/README.md?style=for-the-badge)
+
 
 <!--
 **dieguesmosken/dieguesmosken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
