@@ -1,8 +1,11 @@
 ### Contador de Views
-![GitHub search hit counter](https://img.shields.io/github/search/dieguesmosken/dieguesmosken/README.md?style=for-the-badge)![GitHub followers](https://img.shields.io/github/followers/dieguesmosken?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/dieguesmosken/dieguesmosken?style=social)
 ### Redes Sociais
-![Twitter Follow](https://img.shields.io/twitter/follow/dieguesmosken?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/dieguesmosken?style=social) ![GitHub followers](https://img.shields.io/github/followers/dieguesmosken?style=social)
 
+### Sobre Mim
+- 🌱 I’m currently learning Tecnico em desenvolviment de sistemas
+- 🤔 I’m looking for help with Csharp
 <!--
 **dieguesmosken/dieguesmosken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
