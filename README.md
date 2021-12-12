@@ -1,10 +1,10 @@
 ### Contador de Views
-![GitHub watchers](https://img.shields.io/github/watchers/dieguesmosken/dieguesmosken?style=social)[![HitCount](http://hits.dwyl.com/dieguesmosken/dieguesmosken.svg)](http://hits.dwyl.com/dieguesmosken/dieguesmosken)
+![GitHub watchers](https://img.shields.io/github/watchers/dieguesmosken/dieguesmosken?style=social)  ![GitHub followers](https://img.shields.io/github/followers/:dieguesmosken?style=social)
 ### Redes Sociais
-![Twitter Follow](https://img.shields.io/twitter/follow/dieguesmosken?style=social) ![GitHub followers](https://img.shields.io/github/followers/dieguesmosken?style=social)
-[Facebook](facebook.com/dieguesmosken) [Telegram](http://t.me/dieguesmosken) [Linkedin](linkedin.com/in/dieguesmosken) [Instagram](instagram.com/matheus.mosken)
+![Twitter Follow](https://img.shields.io/twitter/follow/teuzinytbr?style=social) ![Youtube](https://img.shields.io/youtube/channel/views/UChoAIVfcN0KV59R7C0Ge6-w?style=social)
+[Facebook](facebook.com/dieguesmosken) [Telegram](http://t.me/dieguesmosken) [Linkedin](linkedin.com/in/dieguesmosken) [Instagram](instagram.com/matheus.diegues) 
 ### Sobre Mim
-- 🌱 I’m currently learning Tecnico em desenvolviment de sistemas
+- 🌱 Sou Tecnico em desenvolvimento de sistemas Formado pela Etec de registro
 - 🤔 I’m looking for help with Csharp
 <!--
 **dieguesmosken/dieguesmosken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
