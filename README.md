@@ -1,5 +1,5 @@
 ### Contador de Views
-![GitHub watchers](https://img.shields.io/github/watchers/dieguesmosken/dieguesmosken?style=social)  ![GitHub followers](https://img.shields.io/github/followers/:dieguesmosken?style=social)
+![](https://komarev.com/ghpvc/?dieguesmosken&color=green)  ![GitHub followers](https://img.shields.io/github/followers/:dieguesmosken?style=social)
 ### Redes Sociais
 ![Twitter Follow](https://img.shields.io/twitter/follow/teuzinytbr?style=social) ![Youtube](https://img.shields.io/youtube/channel/views/UChoAIVfcN0KV59R7C0Ge6-w?style=social)
 [Facebook](facebook.com/dieguesmosken) [Telegram](http://t.me/dieguesmosken) [Linkedin](linkedin.com/in/dieguesmosken) [Instagram](instagram.com/matheus.diegues) 
