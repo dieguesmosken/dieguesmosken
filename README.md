@@ -62,9 +62,8 @@ Here are some ideas to get you started:
 -->
 
 <br>
-<a href="https://github.com/dieguesmosken">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguesmosken&layout=compact)](https://github.com/dieguesmosken/github-readme-stats&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/dieguesmosken">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dieguesmosken&show_icons=true&theme=dark" />
-</a>
+<div align="center">
+ <a href="https://github.com/dieguesmosken", >
+ <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=dieguesmosken&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguesmosken&layout=compact&langs_count=7&theme=dark"/>
+</div>
