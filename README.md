@@ -6,18 +6,48 @@
 - 🔭 I’m currently working on my portifolio
 -  💬 Ask me about games
 
+### Languages and Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytho/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visualstudio/visualstudio.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code><br>
+
 ### Redes Sociais
-![Twitter Follow](https://img.shields.io/twitter/follow/teuzinytbr?style=social) ![GitHub followers](https://img.shields.io/github/followers/dieguesmosken?style=social) ![Youtube](https://img.shields.io/youtube/channel/views/UChoAIVfcN0KV59R7C0Ge6-w?style=social)
-[Facebook](facebook.com/dieguesmosken) [Telegram](http://t.me/dieguesmosken) [Linkedin](linkedin.com/in/dieguesmosken) [Instagram](instagram.com/matheus.diegues) ![Twitch Status](https://img.shields.io/twitch/status/teuzinytbr?style=social) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/dieguesmosken?style=social)
+<a target="_blank" href="https://www.linkedin.com/in/dieguesmosken/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5513997121709">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/matheus.diegues/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="https://dev.to/dieguesmosken/">
+  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+</a>
+<a target="_blank" href="mailto:dmosken2015@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://fb.com/dieguesmosken">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a target="_blank" href="https://t.me/dieguesmosken">
+  <img align="left" alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a target="_blank" href="https://twitter.com/dieguesmosken">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a><br>
 
 ### Atividade do GitHub
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dieguesmosken/dieguesmosken.github.io) ![GitHub User's stars](https://img.shields.io/github/stars/dieguesmosken?style=social)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dieguesmosken&layout=compact)](https://github.com/dieguesmosken/github-readme-stats&show_icons=true&theme=dark)
-
-![dieguesmosken GitHub stats](https://github-readme-stats.vercel.app/api?username=dieguesmosken&show_icons=true&theme=dark)
 <!--
 **dieguesmosken/dieguesmosken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,3 +62,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+<a href="https://github.com/dieguesmosken">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguesmosken&layout=compact)](https://github.com/dieguesmosken/github-readme-stats&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/dieguesmosken">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dieguesmosken&show_icons=true&theme=dark" />
+</a>
