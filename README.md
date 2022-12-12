@@ -70,7 +70,7 @@ Here are some ideas to get you started:
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguesmosken&layout=compact&langs_count=7&theme=dark" />
     </a>
 </div>
-![](https://media3.giphy.com/media/mCdoJxB8Nc4u4uve8X/giphy.gif?cid=6c09b952dae7f2ce39f42db2724057a387c2ed0a12386f2c&rid=giphy.gif) 
+![](https://media3.giphy.com/media/mCdoJxB8Nc4u4uve8X/giphy.gif) 
 
   
 
