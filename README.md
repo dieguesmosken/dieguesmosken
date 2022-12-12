@@ -15,7 +15,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code><br>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code><
 
 ### Redes Sociais
 <a target="_blank" href="https://www.linkedin.com/in/dieguesmosken/">
@@ -70,3 +70,18 @@ Here are some ideas to get you started:
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguesmosken&layout=compact&langs_count=7&theme=dark" />
     </a>
 </div>
+![](https://giphy.com/gifs/matheusmosken42-teuzinytbr-mCdoJxB8Nc4u4uve8X) 
+
+  
+
+ <a href=#><img src="contributions.svg"></a> 
+
+  
+
+ <p align="center">  
+
+   Visitor count<br> 
+
+   <img src="https://profile-counter.glitch.me/dieguesmosken/count.svg" /> 
+
+ </p>
