@@ -46,6 +46,14 @@
 ### Atividade do GitHub
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dieguesmosken/dieguesmosken.github.io) ![GitHub User's stars](https://img.shields.io/github/stars/dieguesmosken?style=social)
 
+ <p align="center">  
+
+   Visitas a este perfil: <br> 
+
+   <img src="https://profile-counter.glitch.me/dieguesmosken/count.svg" /> 
+
+ </p>
+
 <!--
 **dieguesmosken/dieguesmosken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -74,14 +82,3 @@ Here are some ideas to get you started:
 
   
 
- 
-
-
-
- <p align="center">  
-
-   Visitor count<br> 
-
-   <img src="https://profile-counter.glitch.me/dieguesmosken/count.svg" /> 
-
- </p>
