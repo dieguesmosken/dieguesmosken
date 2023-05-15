@@ -2,7 +2,11 @@
 
 ### Sobre Mim 
 - 🌱 Tecnico em desenvolvimento de sistemas pela Etec de registro
-- 🔭 I’m currently working on my portifolio
+- 🔭 I’m currently working on:
+- 🎵 Web Music Player app in HTML
+- 🎹 Spotify Statictics App
+- :octocat: Github User Search Web App
+- 🌦️ Weather Web App
 
 ### Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
