@@ -82,6 +82,9 @@ Here are some ideas to get you started:
     <a href="https://dieguesmosken.github.io" target="_blank" style="text-align: center;">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguesmosken&layout=compact&langs_count=7&theme=dark" />
     </a>
+    <a href="https://dieguesmosken.github.io" target="_blank" style="text-align: center;">
+      <img height="180em" src="https://streak-stats.demolab.com?user=dieguesmosken&theme=dark&border_radius=5&locale=pt_BR&mode=weekly" />
+    </a>
 </div>
 
 
