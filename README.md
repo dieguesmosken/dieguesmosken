@@ -52,11 +52,8 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dieguesmosken/dieguesmosken.github.io) ![GitHub User's stars](https://img.shields.io/github/stars/dieguesmosken?style=social)
 
  <p align="center">  
-
    Visitas a este perfil: <br> 
-
    <img src="https://profile-counter.glitch.me/dieguesmosken/count.svg" /> 
-
  </p>
 
 <!--
@@ -73,8 +70,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![An image of @dieguesmosken's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dieguesmosken)](https://holopin.io/@dieguesmosken)
 
-<br>
 <div id="githubstat">
     <a href="https://dieguesmosken.github.io" target="_blank" style="text-align: center;">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dieguesmosken&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -85,8 +82,4 @@ Here are some ideas to get you started:
     <a href="https://dieguesmosken.github.io" target="_blank" style="text-align: center;">
       <img height="180em" src="https://streak-stats.demolab.com?user=dieguesmosken&theme=dark&border_radius=5&locale=pt_BR&mode=weekly" />
     </a>
-</div>
-
-
-  
-
+</div> 
