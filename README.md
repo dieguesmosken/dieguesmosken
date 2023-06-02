@@ -1,6 +1,8 @@
 ![teuzinYTBR](https://img.shields.io/badge/Teuzinytbr-TeuzinYTBR-blue) ![GitHub repo size](https://img.shields.io/github/repo-size/dieguesmosken/dieguesmosken.github.io?label=Portfolio%20File%20Size&logo=Tamanho%20do%20Portfolio) ![GitHub language count](https://img.shields.io/github/languages/count/dieguesmosken/dieguesmosken.github.io) ![GitHub top language](https://img.shields.io/github/languages/top/dieguesmosken/dieguesmosken.github.io) ![GitHub](https://img.shields.io/github/license/dieguesmosken/dieguesmosken.github.io) ![relative date]( https://img.shields.io/date/1029426600?label=I%20was%20born)
 [![wakatime](https://wakatime.com/badge/user/31c8cd4b-9191-483c-b3b6-c1c3a6f23a70.svg?style=flat)](https://wakatime.com/@31c8cd4b-9191-483c-b3b6-c1c3a6f23a70)
+[![CI](https://github.com/dieguesmosken/dieguesmosken/actions/workflows/blank.yml/badge.svg)](https://github.com/dieguesmosken/dieguesmosken/actions/workflows/blank.yml)
 [![Deploy Page](https://github.com/dieguesmosken/dieguesmosken/actions/workflows/static.yml/badge.svg)](https://github.com/dieguesmosken/dieguesmosken/actions/workflows/static.yml)
+[![pages-build-deployment](https://github.com/dieguesmosken/dieguesmosken/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/dieguesmosken/dieguesmosken/actions/workflows/pages/pages-build-deployment)
 ### Sobre Mim 
 - 🌱 Tecnico em desenvolvimento de sistemas pela Etec de registro
 - 🔭 I’m currently working on:
