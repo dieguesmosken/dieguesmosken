@@ -16,8 +16,25 @@
 
 
 ### Sobre Mim 
-- 🌱 Tecnico em desenvolvimento de sistemas pela Etec de registro
-- 🔭 I’m currently working on:
+- Tecnico em desenvolvimento de sistemas pela ETEC de Registro
+- my favorite language is Python
+- I'm a student
+- I'm a gamer
+- I'm a developer 
+
+
+
+
+### I’m currently learning:
+![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=AssemblyScript)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
+
+
+### I’m currently working on:
 - ⛏️ Python Minecraft Bedrock Server backup and verification
 - 🎵 Web Music Player app in HTML
 - 🎹 Spotify Statictics App
@@ -25,52 +42,50 @@
 - 🌦️ Weather Web App
 
 
-### Linguagens e Ferramentas
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-### Redes Sociais
-<a target="_blank" href="https://www.linkedin.com/in/dieguesmosken/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5513997121709">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/matheus.diegues/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="https://dev.to/dieguesmosken/">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<a target="_blank" href="mailto:dmosken2015@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://fb.com/dieguesmosken">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a target="_blank" href="https://t.me/dieguesmosken">
-  <img align="left" alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a target="_blank" href="https://twitter.com/dieguesmosken">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a><br>
+### Contato e Redes Sociais
+![@dieguesmosken](https://img.shields.io/badge/Gmail-dmosken2015%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-TeuzinYTBR%235991-purple?style=flat-square&logo=discord&logoColor=white)
+![@matheus.diegues](https://img.shields.io/badge/Instagram-@matheus.diegues-g?style=flat-square&logo=instagram&logoColor=white)
+![TeuzinYTBR](https://img.shields.io/badge/YouTube-TeuzinYTBR-red?style=flat-square&logo=youtube&logoColor=white)
+![TeuzinYTBR](https://img.shields.io/badge/Twitch-TeuzinYTBR-purple?style=flat-square&logo=twitch&logoColor=white)
+![TeuzinYTBR](https://img.shields.io/badge/Whatsapp-(13)997121709-green?style=flat-square&logo=whatsapp&logoColor=white)
+![TeuzinYTBR](https://img.shields.io/badge/Telegram-@dieguesmosken-blue?style=flat-square&logo=telegram&logoColor=white)
+![TeuzinYTBR](https://img.shields.io/badge/Dev.to-dieguesmosken-black?style=flat-square&logo=dev.to&logoColor=white)
+![TeuzinYTBR](https://img.shields.io/badge/Reddit-dieguesmosken-orange?style=flat-square&logo=reddit&logoColor=white)
+![TeuzinYTBR](https://img.shields.io/badge/Steam-matheusmosken42-yellow?style=flat-square&logo=steam&logoColor=white)
+
+
+
+### Linguagens e Ferramentas
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2b%2b)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat-square&logo=visual-studio&logoColor=7C10FF)
+![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=flat-square&logo=unreal-engine)
+![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?style=flat-square&logo=adobe-photoshop)
+![Audacity](https://img.shields.io/badge/-Audacity-black?style=flat-square&logo=audacity)
 
 ### Atividade do GitHub
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dieguesmosken/dieguesmosken.github.io) ![GitHub User's stars](https://img.shields.io/github/stars/dieguesmosken?style=social)
+![Visitor Count](https://profile-counter.glitch.me/dieguesmosken/count.svg)<br>
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dieguesmosken/dieguesmosken.github.io) ![GitHub User's stars](https://img.shields.io/github/stars/dieguesmosken)
+![GitHub followers](https://img.shields.io/github/followers/dieguesmosken)
 
- <p align="center">  
-   Visitas a este perfil: <br> 
-   <img src="https://profile-counter.glitch.me/dieguesmosken/count.svg" /> 
- </p>
+
+### Status do GitHub
+
 
 <!--
 **dieguesmosken/dieguesmosken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -93,9 +108,13 @@ Here are some ideas to get you started:
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dieguesmosken&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     </a>
     <a href="https://dieguesmosken.github.io" target="_blank" style="text-align: center;">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguesmosken&layout=compact&langs_count=7&theme=dark" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguesmosken&layout=compact&theme=dark&langs_count=10" />
     </a>
     <a href="https://dieguesmosken.github.io" target="_blank" style="text-align: center;">
       <img height="180em" src="https://streak-stats.demolab.com?user=dieguesmosken&theme=dark&border_radius=5&locale=pt_BR&mode=weekly" />
     </a>
+    <a href="https://dieguesmosken.github.io" target="_blank" style="text-align: center;">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=dieguesmosken&theme=dark&layout=compact" />
+    </a>
+  
 </div> 
