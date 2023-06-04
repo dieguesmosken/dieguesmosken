@@ -1,8 +1,6 @@
 ![teuzinYTBR](https://img.shields.io/badge/Teuzinytbr-TeuzinYTBR-purple) 
 [![wakatime](https://wakatime.com/badge/user/31c8cd4b-9191-483c-b3b6-c1c3a6f23a70.svg?style=flat)](https://wakatime.com/@31c8cd4b-9191-483c-b3b6-c1c3a6f23a70)
 ![GitHub repo size](https://img.shields.io/github/repo-size/dieguesmosken/dieguesmosken.github.io?label=Portfolio%20File%20Size&logo=Tamanho%20do%20Portfolio) 
-![GitHub language count](https://img.shields.io/github/languages/count/dieguesmosken/dieguesmosken.github.io) 
-![GitHub top language](https://img.shields.io/github/languages/top/dieguesmosken/dieguesmosken.github.io) 
 ![GitHub](https://img.shields.io/github/license/dieguesmosken/hippotec-1) ![relative date]( https://img.shields.io/date/1029426600?label=I%20was%20born)
 ![GitHub last commit](https://img.shields.io/github/last-commit/dieguesmosken/dieguesmosken.github.io?label=Last%20Commit)
 ![GitHub followers](https://img.shields.io/github/followers/dieguesmosken?label=Followers&logo=Followers)
