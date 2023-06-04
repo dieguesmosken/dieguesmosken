@@ -1,8 +1,22 @@
-![teuzinYTBR](https://img.shields.io/badge/Teuzinytbr-TeuzinYTBR-blue) ![GitHub repo size](https://img.shields.io/github/repo-size/dieguesmosken/dieguesmosken.github.io?label=Portfolio%20File%20Size&logo=Tamanho%20do%20Portfolio) ![GitHub language count](https://img.shields.io/github/languages/count/dieguesmosken/dieguesmosken.github.io) ![GitHub top language](https://img.shields.io/github/languages/top/dieguesmosken/dieguesmosken.github.io) ![GitHub](https://img.shields.io/github/license/dieguesmosken/dieguesmosken.github.io) ![relative date]( https://img.shields.io/date/1029426600?label=I%20was%20born)
+![teuzinYTBR](https://img.shields.io/badge/Teuzinytbr-TeuzinYTBR-purple) 
 [![wakatime](https://wakatime.com/badge/user/31c8cd4b-9191-483c-b3b6-c1c3a6f23a70.svg?style=flat)](https://wakatime.com/@31c8cd4b-9191-483c-b3b6-c1c3a6f23a70)
-[![CI](https://github.com/dieguesmosken/dieguesmosken/actions/workflows/blank.yml/badge.svg)](https://github.com/dieguesmosken/dieguesmosken/actions/workflows/blank.yml)
-[![Deploy Page](https://github.com/dieguesmosken/dieguesmosken/actions/workflows/static.yml/badge.svg)](https://github.com/dieguesmosken/dieguesmosken/actions/workflows/static.yml)
-[![pages-build-deployment](https://github.com/dieguesmosken/dieguesmosken/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/dieguesmosken/dieguesmosken/actions/workflows/pages/pages-build-deployment)
+![GitHub repo size](https://img.shields.io/github/repo-size/dieguesmosken/dieguesmosken.github.io?label=Portfolio%20File%20Size&logo=Tamanho%20do%20Portfolio) 
+![GitHub language count](https://img.shields.io/github/languages/count/dieguesmosken/dieguesmosken.github.io) 
+![GitHub top language](https://img.shields.io/github/languages/top/dieguesmosken/dieguesmosken.github.io) 
+![GitHub](https://img.shields.io/github/license/dieguesmosken/hippotec-1) ![relative date]( https://img.shields.io/date/1029426600?label=I%20was%20born)
+![GitHub last commit](https://img.shields.io/github/last-commit/dieguesmosken/dieguesmosken.github.io?label=Last%20Commit)
+![GitHub followers](https://img.shields.io/github/followers/dieguesmosken?label=Followers&logo=Followers)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dieguesmosken/dieguesmosken.github.io?label=Commit%20Activity&logo=Commit%20Activity)
+![GitHub contributors](https://img.shields.io/github/contributors/dieguesmosken/dieguesmosken.github.io?label=Contributors&logo=Contributors)
+![GitHub issues](https://img.shields.io/github/issues/dieguesmosken/dieguesmosken.github.io?label=Issues&logo=Issues)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/dieguesmosken/dieguesmosken.github.io?label=Closed%20Issues&logo=Closed%20Issues)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/dieguesmosken/dieguesmosken.github.io?label=Pull%20Requests&logo=Pull%20Requests)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/dieguesmosken/dieguesmosken.github.io?label=Closed%20Pull%20Requests&logo=Closed%20Pull%20Requests)
+![GitHub milestones](https://img.shields.io/github/milestones/all/dieguesmosken/dieguesmosken.github.io?label=Milestones&logo=Milestones)
+![GitHub labels](https://img.shields.io/github/labels/dieguesmosken/dieguesmosken.github.io/bug?label=Labels&logo=Labels)
+![GitHub deployments](https://img.shields.io/github/deployments/dieguesmosken/dieguesmosken.github.io/github-pages?label=Deployments&logo=Deployments)
+
+
 ### Sobre Mim 
 - 🌱 Tecnico em desenvolvimento de sistemas pela Etec de registro
 - 🔭 I’m currently working on:
