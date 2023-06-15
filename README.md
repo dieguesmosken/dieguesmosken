@@ -119,3 +119,4 @@ Here are some ideas to get you started:
     </a>
   
 </div> 
+![snake gif](https://github.com/dieguesmosken/dieguesmosken/blob/output/github-contribution-grid-snake.svg)
