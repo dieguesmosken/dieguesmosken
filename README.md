@@ -117,6 +117,5 @@ Here are some ideas to get you started:
     <a href="https://dieguesmosken.github.io" target="_blank" style="text-align: center;">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=dieguesmosken&theme=dark&layout=compact" />
     </a>
-  
+    <img  src="https://github.com/dieguesmosken/dieguesmosken/blob/output/github-contribution-grid-snake.svg" />
 </div> 
-![snake gif](https://github.com/dieguesmosken/dieguesmosken/blob/output/github-contribution-grid-snake.svg)
