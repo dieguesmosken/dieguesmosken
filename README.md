@@ -15,7 +15,6 @@
 ![GitHub labels](https://img.shields.io/github/labels/dieguesmosken/dieguesmosken.github.io/bug?label=Labels&logo=Labels)
 ![GitHub deployments](https://img.shields.io/github/deployments/dieguesmosken/dieguesmosken.github.io/github-pages?label=Deployments&logo=Deployments)
 
-
 ### Sobre Mim 
 - Tecnico em desenvolvimento de sistemas pela ETEC de Registro
 - my favorite language is Python
