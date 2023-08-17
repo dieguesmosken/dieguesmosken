@@ -38,7 +38,7 @@
 - ⛏️ Python [Minecraft Bedrock Server](https://github.com/dieguesmosken/servidor_bedrock/tree/main-server-bedrock)
 - 🎵 [Web Music Player](https://dieguesmosken.github.io/WebAppsHTML/Apps/Reprodutor%20de%20musica/Reprodutor%201/index.html) app in HTML
 - 🎹 Spotify [Statictics App](https://dieguesmosken.github.io/WebAppsHTML/Apps/SpotifyAppApi/index.html)
-- :octocat: Github User Search Web App
+- :octocat: [Github User Search](https://dieguesmosken.github.io/WebAppsHTML/Apps/githubUserSearch/index.html) Web App
 - 🌦️ [Weather Web App](https://dieguesmosken.github.io/WebAppsHTML/Apps/weatherApp/index.html)
 - 🎮 [Pacman](https://dieguesmosken.github.io/WebAppsHTML/Web_Games/PACMAN-JS/index.html) em javascript
 
