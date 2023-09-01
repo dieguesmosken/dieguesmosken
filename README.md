@@ -41,6 +41,9 @@
 - :octocat: [Github User Search](https://dieguesmosken.github.io/WebAppsHTML/Apps/githubUserSearch/index.html) Web App
 - 🌦️ [Weather Web App](https://dieguesmosken.github.io/WebAppsHTML/Apps/weatherApp/index.html)
 - 🎮 [Pacman](https://dieguesmosken.github.io/WebAppsHTML/Web_Games/PACMAN-JS/index.html) em javascript
+- 🎲 [jogo da velha](https://dieguesmosken.github.io/WebAppsHTML/Web_Games/TicTacToe/index.html)
+- [breakcout game](https://dieguesmosken.github.io/WebAppsHTML/Web_Games/Breakout%20Game/index.html)
+- [pong game](https://dieguesmosken.github.io/WebAppsHTML/Web_Games/Pong%20Game/index.html)
 
 
 
