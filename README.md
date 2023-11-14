@@ -16,7 +16,8 @@
 ![GitHub deployments](https://img.shields.io/github/deployments/dieguesmosken/dieguesmosken.github.io/github-pages?label=Deployments&logo=Deployments)
 
 ### Sobre Mim 
-- Tecnico em desenvolvimento de sistemas pela ETEC de Registro
+- 3/3 DS ETEC REGISTRO
+- 1/6 DSM FATEC REGISTRO
 - my favorite language is Python
 - I'm a student
 - I'm a gamer
