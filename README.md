@@ -21,7 +21,8 @@
 - my favorite language is Python
 - I'm a student
 - I'm a gamer
-- I'm a developer 
+- I'm a developer
+- [@teamconnexus](https://github.com/TeamConnexus/TeamConnexus)
 
 
 
