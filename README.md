@@ -17,7 +17,7 @@
 
 ### Sobre Mim 
 - 3/3 DS ETEC REGISTRO
-- 1/6 DSM FATEC REGISTRO
+- 2/6 DSM FATEC REGISTRO
 - my favorite language is Python
 - I'm a student
 - I'm a gamer
