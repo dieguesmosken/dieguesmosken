@@ -5,15 +5,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/dieguesmosken/dieguesmosken.github.io?label=Last%20Commit)
 ![GitHub followers](https://img.shields.io/github/followers/dieguesmosken?label=Followers&logo=Followers)
 ![GitHub User's stars](https://img.shields.io/github/stars/dieguesmosken)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dieguesmosken/dieguesmosken.github.io?label=Commit%20Activity&logo=Commit%20Activity)
-![GitHub contributors](https://img.shields.io/github/contributors/dieguesmosken/dieguesmosken.github.io?label=Contributors&logo=Contributors)
-![GitHub issues](https://img.shields.io/github/issues/dieguesmosken/dieguesmosken.github.io?label=Issues&logo=Issues)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/dieguesmosken/dieguesmosken.github.io?label=Closed%20Issues&logo=Closed%20Issues)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/dieguesmosken/dieguesmosken.github.io?label=Pull%20Requests&logo=Pull%20Requests)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/dieguesmosken/dieguesmosken.github.io?label=Closed%20Pull%20Requests&logo=Closed%20Pull%20Requests)
-![GitHub milestones](https://img.shields.io/github/milestones/all/dieguesmosken/dieguesmosken.github.io?label=Milestones&logo=Milestones)
-![GitHub labels](https://img.shields.io/github/labels/dieguesmosken/dieguesmosken.github.io/bug?label=Labels&logo=Labels)
-![GitHub deployments](https://img.shields.io/github/deployments/dieguesmosken/dieguesmosken.github.io/github-pages?label=Deployments&logo=Deployments)
+
 
 ### Sobre Mim 
 - 3/3 DS ETEC REGISTRO
