@@ -14,7 +14,7 @@
 - I'm a student
 - I'm a gamer
 - I'm a developer
-- [@vvAi-Startup](https://github.com/vvAi-Startup)
+- [@placeholder](https://github.com/placeholder)
 
 
 
