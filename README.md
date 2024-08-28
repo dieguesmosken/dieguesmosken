@@ -30,7 +30,7 @@
 
 
 ### I’m currently working on:
-- ⛏️ Python [Minecraft Bedrock Server](https://github.com/dieguesmosken/servidor_bedrock/tree/main-server-bedrock)
+- 🔗 [Encurtador de Links](https://dieguesmosken.github.io/redirect/)
 - 🎵 [Web Music Player](https://dieguesmosken.github.io/WebAppsHTML/Apps/Reprodutor%20de%20musica/Reprodutor%201/index.html) app in HTML
 - 🎹 Spotify [Statictics App](https://dieguesmosken.github.io/WebAppsHTML/Apps/SpotifyAppApi/index.html)
 - :octocat: [Github User Search](https://dieguesmosken.github.io/WebAppsHTML/Apps/githubUserSearch/index.html) Web App
