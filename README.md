@@ -21,8 +21,8 @@
 
 ### I’m currently learning:
 ![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=AssemblyScript)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
-![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B)
+![JAVA](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+![C++](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java8)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 
