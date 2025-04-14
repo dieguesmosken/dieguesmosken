@@ -116,4 +116,4 @@ Here are some ideas to get you started:
     </a>
    
 </div> 
-![Snake animation](https://dieguesmosken.github.io/dieguesmosken/github-contribution-grid-snake.svg)
+
