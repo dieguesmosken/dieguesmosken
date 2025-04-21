@@ -53,6 +53,19 @@
 ![TeuzinYTBR](https://img.shields.io/badge/Dev.to-dieguesmosken-black?style=flat-square&logo=dev.to&logoColor=white)
 ![TeuzinYTBR](https://img.shields.io/badge/Reddit-dieguesmosken-orange?style=flat-square&logo=reddit&logoColor=white)
 ![TeuzinYTBR](https://img.shields.io/badge/Steam-matheusmosken42-yellow?style=flat-square&logo=steam&logoColor=white)
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+</div>
+
 
 
 
@@ -99,7 +112,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![An image of @dieguesmosken's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dieguesmosken)](https://holopin.io/@dieguesmosken)
+
 
 <div id="githubstat">
     <a href="https://dieguesmosken.github.io" target="_blank" style="text-align: center;">
@@ -116,4 +129,22 @@ Here are some ideas to get you started:
     </a>
    
 </div> 
+
+
+
+
+###
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dieguesmosken/dieguesmosken/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dieguesmosken/dieguesmosken/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dieguesmosken/dieguesmosken/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/dieguesmosken/dieguesmosken/output/snake.svg" alt="Snake animation" />
+
+###
 
