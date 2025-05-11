@@ -1,10 +1,12 @@
 ![teuzinYTBR](https://img.shields.io/badge/Teuzinytbr-TeuzinYTBR-purple) 
 [![wakatime](https://wakatime.com/badge/user/31c8cd4b-9191-483c-b3b6-c1c3a6f23a70.svg?style=flat)](https://wakatime.com/@31c8cd4b-9191-483c-b3b6-c1c3a6f23a70)
 ![GitHub repo size](https://img.shields.io/github/repo-size/dieguesmosken/dieguesmosken.github.io?label=Portfolio%20File%20Size&logo=Tamanho%20do%20Portfolio) 
-![GitHub](https://img.shields.io/github/license/dieguesmosken/hippotec-1) ![relative date]( https://img.shields.io/date/1029426600?label=I%20was%20born)
+![relative date]( https://img.shields.io/date/1029426600?label=I%20was%20born)
 ![GitHub last commit](https://img.shields.io/github/last-commit/dieguesmosken/dieguesmosken.github.io?label=Last%20Commit)
 ![GitHub followers](https://img.shields.io/github/followers/dieguesmosken?label=Followers&logo=Followers)
 ![GitHub User's stars](https://img.shields.io/github/stars/dieguesmosken)
+
+ ![Status](./profile-3d-contrib/profile-night-green.svg)
 
 
 ### Sobre Mim 
@@ -14,20 +16,13 @@
 - I'm a student
 - I'm a gamer
 - I'm a developer
-- [@placeholder](https://github.com/placeholder)
-
-
-
-
+- 
 ### I’m currently learning:
 ![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=AssemblyScript)
 ![JAVA](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 ![C++](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java8)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-
-
-
 
 ### I’m currently working on:
 - 🔗 [Encurtador de Links](https://dieguesmosken.github.io/redirect/)
@@ -39,8 +34,6 @@
 - 🎲 [jogo da velha](https://dieguesmosken.github.io/WebAppsHTML/Web_Games/TicTacToe/index.html)
 - [breakcout game](https://dieguesmosken.github.io/WebAppsHTML/Web_Games/Breakout%20Game/index.html)
 - [pong game](https://dieguesmosken.github.io/WebAppsHTML/Web_Games/Pong%20Game/index.html)
-
-
 
 ### Contato e Redes Sociais
 ![@dieguesmosken](https://img.shields.io/badge/Gmail-dmosken2015%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)
@@ -129,22 +122,4 @@ Here are some ideas to get you started:
     </a>
    
 </div> 
-
-
-
-
-###
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dieguesmosken/dieguesmosken/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dieguesmosken/dieguesmosken/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dieguesmosken/dieguesmosken/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/dieguesmosken/dieguesmosken/output/snake.svg" alt="Snake animation" />
-
-###
 
