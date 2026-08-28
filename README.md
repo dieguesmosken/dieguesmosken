@@ -5,6 +5,11 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/dieguesmosken/dieguesmosken.github.io?label=Last%20Commit)
 ![GitHub followers](https://img.shields.io/github/followers/dieguesmosken?label=Followers&logo=Followers)
 ![GitHub User's stars](https://img.shields.io/github/stars/dieguesmosken)
+<p align="left">
+  <a href="https://valid.cpuid.com/7ewkrmdy" target="_blank">
+    <img src="https://valid.cpuid.com/cache/banner/7ewkrmdy-100.png" alt="CPUID Validation" width="840" />
+  </a>
+</p>
 
  ![Status](./profile-3d-contrib/profile-night-green.svg)
 
