@@ -73,6 +73,14 @@ Dev com foco em front-end, graduando em Desenvolvimento de Software Multiplatafo
 - [Arquivo do site](https://www.teuzin.com.br/archive/index.html): versões antigas do portfólio, jogos e experimentos
 - [Weather App](https://dieguesmosken.github.io/WeatherApp/index.html) e [Encurtador de links](https://dieguesmosken.github.io/redirect/)
 
+## 🖥️ Meu PC
+
+<p align="center">
+  <a href="https://valid.cpuid.com/7ewkrmdy" target="_blank">
+    <img src="https://valid.cpuid.com/cache/banner/7ewkrmdy-100.png" alt="CPUID Validation" width="840" />
+  </a>
+</p>
+
 ## 📊 Atividade
 
 ![Contribuições](./profile-3d-contrib/profile-night-green.svg)
