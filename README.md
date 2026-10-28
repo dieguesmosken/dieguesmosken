@@ -1,130 +1,91 @@
-![teuzinYTBR](https://img.shields.io/badge/Teuzinytbr-TeuzinYTBR-purple) 
-[![wakatime](https://wakatime.com/badge/user/31c8cd4b-9191-483c-b3b6-c1c3a6f23a70.svg?style=flat)](https://wakatime.com/@31c8cd4b-9191-483c-b3b6-c1c3a6f23a70)
-![GitHub repo size](https://img.shields.io/github/repo-size/dieguesmosken/dieguesmosken.github.io?label=Portfolio%20File%20Size&logo=Tamanho%20do%20Portfolio) 
-![relative date]( https://img.shields.io/date/1029426600?label=I%20was%20born)
-![GitHub last commit](https://img.shields.io/github/last-commit/dieguesmosken/dieguesmosken.github.io?label=Last%20Commit)
-![GitHub followers](https://img.shields.io/github/followers/dieguesmosken?label=Followers&logo=Followers)
-![GitHub User's stars](https://img.shields.io/github/stars/dieguesmosken)
-<p align="left">
-  <a href="https://valid.cpuid.com/7ewkrmdy" target="_blank">
-    <img src="https://valid.cpuid.com/cache/banner/7ewkrmdy-100.png" alt="CPUID Validation" width="840" />
-  </a>
-</p>
+<div align="center">
 
- ![Status](./profile-3d-contrib/profile-night-green.svg)
+<img src="https://raw.githubusercontent.com/dieguesmosken/dieguesmosken.github.io/main/assets/Img/banners/home.jpg" alt="teuzin0dev · dev · streamer · furry" width="100%">
 
+# Oi, eu sou o Matheus! 💜
 
-### Sobre Mim 
-- 3/3 DS ETEC REGISTRO
-- 2/6 DSM FATEC REGISTRO
-- my favorite language is Python
-- I'm a student
-- I'm a gamer
-- I'm a developer
-- 
-### I’m currently learning:
-![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=AssemblyScript)
-![JAVA](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
-![C++](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java8)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+**24 anos · dev · streamer · furry · também conhecido como Teuzin**
 
-### I’m currently working on:
-- 🔗 [Encurtador de Links](https://dieguesmosken.github.io/redirect/)
-- 🎵 [Web Music Player](https://dieguesmosken.github.io/WebAppsHTML/Apps/Reprodutor%20de%20musica/Reprodutor%201/index.html) app in HTML
-- 🎹 Spotify [Statictics App](https://dieguesmosken.github.io/WebAppsHTML/Apps/SpotifyAppApi/index.html)
-- :octocat: [Github User Search](https://dieguesmosken.github.io/WebAppsHTML/Apps/githubUserSearch/index.html) Web App
-- 🌦️ [Weather Web App](https://dieguesmosken.github.io/WeatherApp/index.html)
-- 🎮 [Pacman](https://dieguesmosken.github.io/WebAppsHTML/Web_Games/PACMAN-JS/index.html) em javascript
-- 🎲 [jogo da velha](https://dieguesmosken.github.io/WebAppsHTML/Web_Games/TicTacToe/index.html)
-- [breakcout game](https://dieguesmosken.github.io/WebAppsHTML/Web_Games/Breakout%20Game/index.html)
-- [pong game](https://dieguesmosken.github.io/WebAppsHTML/Web_Games/Pong%20Game/index.html)
+[![Twitch](https://img.shields.io/badge/Twitch-teuzin0dev-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/teuzin0dev)
+[![Discord](https://img.shields.io/badge/Discord-matilha-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UPSSNs3xTZ)
+[![Site](https://img.shields.io/badge/Site-teuzin.com.br-7B2CF2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.teuzin.com.br)
 
-### Contato e Redes Sociais
-![@dieguesmosken](https://img.shields.io/badge/Gmail-dmosken2015%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-TeuzinYTBR%235991-purple?style=flat-square&logo=discord&logoColor=white)
-![@matheus.diegues](https://img.shields.io/badge/Instagram-@matheus.diegues-g?style=flat-square&logo=instagram&logoColor=white)
-![TeuzinYTBR](https://img.shields.io/badge/YouTube-TeuzinYTBR-red?style=flat-square&logo=youtube&logoColor=white)
-![TeuzinYTBR](https://img.shields.io/badge/Twitch-TeuzinYTBR-purple?style=flat-square&logo=twitch&logoColor=white)
-![TeuzinYTBR](https://img.shields.io/badge/Whatsapp-(13)997121709-green?style=flat-square&logo=whatsapp&logoColor=white)
-![TeuzinYTBR](https://img.shields.io/badge/Telegram-@dieguesmosken-blue?style=flat-square&logo=telegram&logoColor=white)
-![TeuzinYTBR](https://img.shields.io/badge/Dev.to-dieguesmosken-black?style=flat-square&logo=dev.to&logoColor=white)
-![TeuzinYTBR](https://img.shields.io/badge/Reddit-dieguesmosken-orange?style=flat-square&logo=reddit&logoColor=white)
-![TeuzinYTBR](https://img.shields.io/badge/Steam-matheusmosken42-yellow?style=flat-square&logo=steam&logoColor=white)
-###
+[![Instagram](https://img.shields.io/badge/Instagram-@teuzin0dev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/teuzin0dev)
+[![X](https://img.shields.io/badge/X-@teuzin0dev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/teuzin0dev)
+[![Telegram](https://img.shields.io/badge/Telegram-@TeuzinYTBR-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/TeuzinYTBR)
+[![Steam](https://img.shields.io/badge/Steam-dieguesmosken-171A21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/dieguesmosken/)
+[![LivePix](https://img.shields.io/badge/LivePix-apoie-A970FF?style=flat-square)](https://livepix.gg/teuzin0dev)
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
 </div>
 
+## 🐺 Sou furry desde que me lembro
 
+Desde que me entendo por gente eu gosto de personagens antropomórficos. Nunca teve um dia em que eu "virei" furry: sempre foi parte de mim.
 
+Quando conheci a comunidade, ela chegou com um grande abraço. Fui recebido de braços abertos, e foi por isso que decidi usar o **Teyo**, minha sona, como a cara das lives e do canal.
 
-### Linguagens e Ferramentas
+<table>
+<tr>
+<td width="200" align="center"><img src="https://raw.githubusercontent.com/dieguesmosken/dieguesmosken.github.io/main/assets/Img/teyo.png" alt="Teyo, lobo cinza de cabelo roxo" width="180"></td>
+<td>
+
+**Teyo** é um lobo de pelagem cinza, cabelo roxo e olhos de cores diferentes (um amarelo e um verde). Ele aparece no overlay, nos alertas, no PNGtuber e na tela de "já volto" das lives. A cor oficial é o roxo `#7B2CF2`.
+
+A comunidade se chama **matilha**. Quem chega, fica. 💜
+
+</td>
+</tr>
+</table>
+
+## 📺 Lives
+
+- Twitch: [twitch.tv/teuzin0dev](https://twitch.tv/teuzin0dev)
+- Jogos, bate-papo e programação ao vivo
+- Meta atual: uma câmera e uma luz novas pras lives (apoie via [LivePix](https://livepix.gg/teuzin0dev))
+
+## 💻 Programação
+
+Dev com foco em front-end, graduando em Desenvolvimento de Software Multiplataforma (FATEC). Meu idioma favorito é Python, e hoje estudo Assembly, C#, Java e Node.js.
+
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2b%2b)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat-square&logo=visual-studio&logoColor=7C10FF)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![OBS](https://img.shields.io/badge/-OBS-black?style=flat-square&logo=obsstudio)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=flat-square&logo=unreal-engine)
 ![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?style=flat-square&logo=adobe-photoshop)
-![Audacity](https://img.shields.io/badge/-Audacity-black?style=flat-square&logo=audacity)
 
-### Atividade do GitHub
-![Visitor Count](https://profile-counter.glitch.me/dieguesmosken/count.svg)<br>
+## 🎮 Pra jogar e fuçar
 
+- [Pac-Man](https://www.teuzin.com.br/archive/jogos/PACMAN-JS/index.html) feito em JavaScript puro. Tenta bater meu recorde!
+- [Meu site](https://www.teuzin.com.br): quem eu sou, onde tem live e o que eu programo
+- [Arquivo do site](https://www.teuzin.com.br/archive/index.html): versões antigas do portfólio, jogos e experimentos
+- [Weather App](https://dieguesmosken.github.io/WeatherApp/index.html) e [Encurtador de links](https://dieguesmosken.github.io/redirect/)
 
+## 📊 Atividade
 
-### Status do GitHub
+![Contribuições](./profile-3d-contrib/profile-night-green.svg)
 
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dieguesmosken&show_icons=true&theme=dark&hide_border=true&bg_color=150c2c&title_color=a970ff&icon_color=7b2cf2&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguesmosken&layout=compact&theme=dark&hide_border=true&bg_color=150c2c&title_color=a970ff&langs_count=8" alt="Linguagens mais usadas">
+  <img height="170" src="https://streak-stats.demolab.com?user=dieguesmosken&theme=dark&border_radius=5&locale=pt_BR&mode=weekly&background=150c2c&ring=7b2cf2&fire=a970ff&currStreakLabel=a970ff" alt="Sequência de contribuições">
+</div>
 
-<!--
-**dieguesmosken/dieguesmosken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://wakatime.com/@31c8cd4b-9191-483c-b3b6-c1c3a6f23a70"><img src="https://wakatime.com/badge/user/31c8cd4b-9191-483c-b3b6-c1c3a6f23a70.svg?style=flat" alt="WakaTime"></a>
+  <img src="https://img.shields.io/github/followers/dieguesmosken?label=Seguidores&style=flat" alt="Seguidores">
+</p>
 
-Here are some ideas to get you started:
-
-🔭 I’m currently working on my portifolio
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<div id="githubstat">
-    <a href="https://dieguesmosken.github.io" target="_blank" style="text-align: center;">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dieguesmosken&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    </a>
-    <a href="https://dieguesmosken.github.io" target="_blank" style="text-align: center;">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguesmosken&layout=compact&theme=dark&langs_count=10" />
-    </a>
-    <a href="https://dieguesmosken.github.io" target="_blank" style="text-align: center;">
-      <img height="180em" src="https://streak-stats.demolab.com?user=dieguesmosken&theme=dark&border_radius=5&locale=pt_BR&mode=weekly" />
-    </a>
-    <a href="https://dieguesmosken.github.io" target="_blank" style="text-align: center;">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=dieguesmosken&theme=dark&layout=compact" />
-    </a>
-   
-</div> 
-
+<p align="center"><sub>fala, matilha! 🐾</sub></p>
