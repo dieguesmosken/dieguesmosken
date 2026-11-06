@@ -31,6 +31,12 @@ Programo com foco em front-end e faço transmissões na Twitch. Graduando em Des
 
 Ferramentas do dia a dia: VS Code, OBS Studio, Cloudflare Workers, GitHub Pages. Estudando Assembly, C#, Java e Node.js.
 
+## Certificações
+
+<a href="./certificados/mercado-pago-checkout-pro.pdf"><img src="./certificados/mercado-pago-checkout-pro.svg" alt="Certificado Checkout Pro · Mercado Pago Developers" height="110"></a>
+
+**Checkout Pro · Mercado Pago Developers** (novembro de 2026) · [ver certificado](./certificados/mercado-pago-checkout-pro.pdf) · código de validação `cert_3bb44b68da3511f193486203702d6ec2`
+
 ## Atividade
 
 <div align="center">
