@@ -8,6 +8,7 @@
 
 [![Site](https://img.shields.io/badge/Portfólio-teuzin.com.br-7B2CF2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.teuzin.com.br)
 [![Mercado Pago](https://img.shields.io/badge/Certificado-Checkout_Pro-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)](./certificados/mercado-pago-checkout-pro.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dieguesmosken-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dieguesmosken)
 [![Twitch](https://img.shields.io/badge/Twitch-teuzin0dev-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/teuzin0dev)
 
 </div>
@@ -77,6 +78,7 @@ Boa parte dos meus projetos nasce das necessidades do meu canal na Twitch e depo
 Fale comigo por qualquer um dos canais abaixo.
 
 [![Site](https://img.shields.io/badge/-teuzin.com.br-7B2CF2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.teuzin.com.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-7B2CF2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dieguesmosken)
 [![Instagram](https://img.shields.io/badge/-Instagram-7B2CF2?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/teuzin0dev)
 [![X](https://img.shields.io/badge/-X-7B2CF2?style=flat-square&logo=x&logoColor=white)](https://x.com/teuzin0dev)
 [![Telegram](https://img.shields.io/badge/-Telegram-7B2CF2?style=flat-square&logo=telegram&logoColor=white)](https://t.me/TeuzinYTBR)
