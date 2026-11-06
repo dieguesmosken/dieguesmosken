@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dieguesmosken/dieguesmosken.github.io/main/assets/Img/banners/home.jpg" alt="teuzin0dev" width="100%">
+<img src="./assets/banner.png" alt="Matheus Mosken Diegues · Desenvolvedor Front-end & Integrações de Pagamento" width="100%">
 
 # Matheus Mosken Diegues
 
