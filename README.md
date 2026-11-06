@@ -16,11 +16,10 @@
 
 ## Sobre mim
 
-Desenvolvedor focado em front-end, graduando em **Desenvolvimento de Software Multiplataforma na FATEC**. Crio aplicações web e ferramentas que resolvem problemas reais, da interface à integração com APIs de terceiros.
+Desenvolvedor focado em front-end. Crio aplicações web e ferramentas que resolvem problemas reais, da interface à integração com APIs de terceiros.
 
 Boa parte dos meus projetos nasce das necessidades do meu canal na Twitch e depois é disponibilizada gratuitamente para outros criadores de conteúdo.
 
-- 🎓 Graduando em DSM · FATEC
 - 💳 Certificado em **Checkout Pro** pelo Mercado Pago Developers
 - 🛠️ Ferramentas gratuitas e open source para a comunidade de streaming
 
